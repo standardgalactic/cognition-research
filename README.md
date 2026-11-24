@@ -1,3 +1,9 @@
+# Cognition Research
+
+[Persistence and Accountable Authorship in Language Model Systems](https://standardgalactic.github.io/cognition-research/persistence-authorship.pdf)
+
+* [Why AI Language Models Aren't Authors](https://standardgalactic.github.io/cognition-research/)
+
 [Primordial Distinctions in Cosmological Memory](https://standardgalactic.github.io/cognition-research/cosmological-memory.pdf)
 
 [Persistence Without Reachability](https://standardgalactic.github.io/cognition-research/persistence-without-reachability.pdf)
